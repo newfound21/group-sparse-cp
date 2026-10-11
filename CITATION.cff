@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper below."
+title: "GroupSparseCP: code and data for the numerical experiments of 'Compact completely positive reformulations for quadratic programs with weighted group sparsity'"
+authors:
+  - family-names: Bomze
+    given-names: Immanuel
+  - family-names: Gabl
+    given-names: Markus
+  - family-names: Peng
+    given-names: Bo
+license: MIT
+repository-code: "https://github.com/newfound21/group-sparse-cp"
+preferred-citation:
+  type: unpublished
+  title: "Compact completely positive reformulations for quadratic programs with weighted group sparsity"
+  authors:
+    - family-names: Bomze
+      given-names: Immanuel
+    - family-names: Gabl
+      given-names: Markus
+    - family-names: Peng
+      given-names: Bo
+  year: 2026

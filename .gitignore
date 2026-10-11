@@ -1,0 +1,10 @@
+# Julia
+*.jl.cov
+*.jl.mem
+# local outputs
+tables/
+*.log
+out*.csv
+# OS
+.DS_Store
+Thumbs.db
