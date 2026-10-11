@@ -100,7 +100,7 @@ after the main runs with the same rule.
 ```bibtex
 @unpublished{GroupSparseCP,
   author = {Bomze, Immanuel and Gabl, Markus and Peng, Bo},
-  title  = {Compact completely positive reformulations for quadratic programs with weighted group sparsity},
+  title  = {Compact completely positive reformulations for quadratic optimization problems with weighted group sparsity},
   year   = {2026},
   note   = {Code and data: https://github.com/newfound21/group-sparse-cp}
 }
