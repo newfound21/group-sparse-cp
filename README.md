@@ -2,7 +2,7 @@
 
 Code and data for the numerical experiments (Section 6) of
 
-> **Compact completely positive reformulations for quadratic programs with weighted group sparsity**
+> **Compact completely positive reformulations for quadratic optimization problems with weighted group sparsity**
 > Immanuel Bomze, Markus Gabl, and Bo Peng (2026).
 
 The test problems are standard quadratic programs with a weighted group-sparsity term,
